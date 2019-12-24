@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a9a3213b88170eb488200c655c42ce23
+timeCreated: 1523538845
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Failed 3d Filled
+  fontNames:
+  - Failed 3d Filled
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a6d111270d1e1244780d187f48e8f7db, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

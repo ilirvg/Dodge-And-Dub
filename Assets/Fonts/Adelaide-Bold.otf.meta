@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 6864bd4051851fd46a21121d09f45ab2
+timeCreated: 1523538827
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adelaide
+  fontNames:
+  - Adelaide
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6004fd712f21fc642b0d41be0818f165, type: 3}
+  - {fileID: 12800000, guid: 2fbff1e16f6d3f84b904a719f2fd7aad, type: 3}
+  - {fileID: 12800000, guid: 4bbbb22716a3f484aa4a4f167e58e3a7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
